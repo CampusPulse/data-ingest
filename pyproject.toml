@@ -43,6 +43,7 @@ icalendar = "^5.0.11"
 campuspulse-event-ingest-schema = {git = "https://github.com/CampusPulse/event-data-schema", rev = "main"}
 
 [tool.poetry.group.dev.dependencies]
+
 tox = "^3.23.1"
 
 [tool.poetry.extras]
